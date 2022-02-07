@@ -1,0 +1,12 @@
+{
+  "intelligence": "69",
+  "strength": "100",
+  "speed": "83",
+  "durability": "100",
+  "power": "100",
+  "combat": "100"
+}
+
+
+attack (strength, power, combat)
+defence (speed, intelligence, durability)
