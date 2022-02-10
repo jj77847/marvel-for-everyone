@@ -1,0 +1,27 @@
+{
+  "name": "marvel-for-everyone",
+  "version": "1.0.0",
+  "description": "app/database designed around IMDB of Marvel characters and their involvement in the MCU.",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.2",
+    "marvel-api": "^1.1.0",
+    "mysql": "^2.18.1",
+    "sequelize": "^6.16.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jj77847/marvel-for-everyone.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jj77847/marvel-for-everyone/issues"
+  },
+  "homepage": "https://github.com/jj77847/marvel-for-everyone#readme"
+}
